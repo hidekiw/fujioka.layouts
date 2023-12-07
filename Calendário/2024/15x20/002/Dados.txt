@@ -1,0 +1,16 @@
+[Info]
+Codigo=5439 
+Tamanho=15x21
+[0_Geral]
+Fotos=1
+Fundo=001.png
+Texto=
+LarguraAlta=1795
+LarguraBaixa=405
+[0_1]
+X=64
+Y=39
+W=278
+H=194
+Largura=0
+Altura=0
